@@ -1,2 +1,3 @@
 ini adalah file 3
 menambah baris 1
+menambah baris ke 2 pada file 2
