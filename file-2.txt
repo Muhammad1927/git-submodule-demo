@@ -2,3 +2,4 @@ ini adalah file2
 menambah file baru di file2
 menambahbaris ke 2
 menambah baris ke 3
+fiture 2
