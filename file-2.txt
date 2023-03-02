@@ -3,3 +3,5 @@ menambah file baru di file2
 menambahbaris ke 2
 menambah baris ke 3
 fiture 2
+
+fitur Utama di file 2
