@@ -4,4 +4,4 @@ menambahbaris ke 2
 menambah baris ke 3
 fiture 2
 
-fitur Utama di file 2
+fitur 2 pada file2
