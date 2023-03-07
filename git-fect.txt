@@ -1,2 +1,3 @@
 ini adalah conoh git fect
 ini adalah conoh git fect baris 2
+ini adalah conoh git fect contoh
